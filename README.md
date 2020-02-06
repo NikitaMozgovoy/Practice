@@ -1,17 +1,4 @@
 <!--- Автор верстки: Мозговой Никита Александрович --->
-<!--
-<style = "text/css">
-.topmenu{
- position:relative;
- }
- .submenu{
- position:absolute;
- transform: scaleY(0);
- transform-origin: 0 0;
- }
- .topmenu li:hover .submenu {transform: scaleY(1);}
-</style>--->
-# [Главная](https://ict.herzen.spb.ru) |  [Абитуриенту](https://ict.herzen.spb.ru/enrollee) |<!-- [<li class="topmenu"><ul clas="submenu"></ul></li>]()-->  [События](https://ict.herzen.spb.ru/events)  | [Медиазал](https://ict.herzen.spb.ru/media-room) |  [Партнеры](https://ict.herzen.spb.ru/partners)
 
 # О кафедре
 У кафедры информационных технологий и электронного обучения богатая история. Она началась в 1925 г. с основания методического кабинета «Учебное кино», созданного при кинолектории ЛГПИ им. А.И. Герцена.
